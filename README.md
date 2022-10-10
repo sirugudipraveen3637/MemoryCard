@@ -1,20 +1,18 @@
-# Palindrome Check App
+# Memory Card Game
 
 ##### Published Url:-N/A
 
 
-<img src="https://github.com/sirugudipraveen3637/PalindromeCheck/blob/main/palindrome.PNG" height="50%" width="100%"/>
+<img src="https://github.com/sirugudipraveen3637/MemoryCard/blob/main/memorycard.PNG" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
 
-  - explored regular expression
-  - exlored split, reverse and join
-  - arrays and strings
+  - querySelectorAll
+  - removeChild & appendChild
+  - Traversing the elements
   
-  
-  
-### Development Efforts:- 30mins
+### Development Efforts:- 2hrs
   
 ### Technologies/Framework/Tool:-
 <span>
